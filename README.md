@@ -18,7 +18,6 @@ I like building things that most people think are “too complex” for fun:
 - A **YouTube + MedLlama medical tool**  
 - A **Pacman AI** where I recreated ghost behavior  
 - A **traffic intersection simulation in Rust**  
-- A **Core War–style VM & Assembler**  
 - Real-time **screen sharing + collaborative editing**
 
 I learn, I break things, I rebuild them better.
