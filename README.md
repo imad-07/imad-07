@@ -56,11 +56,16 @@ A homemade framework with:
 - State management  
 - Custom event system
 
-### 🔌 **Next.js WebSocket Chat System**  
-A real-time chat with:  
-- Group & direct messaging  
-- Message search  
-- Dynamic rendering & scrolling management
+### 🔌 **Social Network – Blogging & Real-Time Chat App**  
+*Next.js + Go + SQLite*  
+A full social platform that combines long-form blogging with real-time communication.  
+Features include:  
+- User profiles and content publishing  
+- Live chat using WebSockets  
+- Fast Go backend with lightweight SQLite storage  
+- Seamless integration between posts, interactions, and messaging  
+- Clean architecture for scalability and performance
+
 
 ### 🎮 **Pacman AI (Vanilla JS)**  
 Recreated classic ghost algorithms:  
@@ -75,8 +80,6 @@ Real-time transcription + medical form evaluation.
 ### 🚦 **Rust Traffic Intersection Simulation**  
 SDL2-based simulation of traffic lights, queues, and vehicle logic.
 
-### 🧨 **Core War–style Assembler & VM in Rust**  
-VM, assembler, instruction set, execution loop.
 
 ---
 
