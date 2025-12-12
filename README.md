@@ -1,16 +1,103 @@
-## Hi there 👋
+# 👋 Hey, I’m **Imad Tounsadi**
+### Developer • Problem Solver • Systems Thinker
 
-<!--
-**imad-07/imad-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that **work fast**, **scale clean**, and **teach me something new every time**.  
+From backend systems to small game engines, from AI tools to custom frameworks — I love diving deep into how things *really* work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a developer who enjoys understanding systems from the ground up —  
+how a **router resolves a request**, how a **compiler transforms code**, how an **AI model reasons**, or how **memory flows inside Go and Rust**.
+
+I like building things that most people think are “too complex” for fun:
+- A **wget clone** I wrote from scratch  
+- A **mini JavaScript framework** with its own VDOM, router & state manager  
+- A **WebSocket chat system** in Next.js  
+- A **YouTube + MedLlama medical tool**  
+- A **Pacman AI** where I recreated ghost behavior  
+- A **traffic intersection simulation in Rust**  
+- A **Core War–style VM & Assembler**  
+- Real-time **screen sharing + collaborative editing**
+
+I learn, I break things, I rebuild them better.
+
+---
+
+## 🧠 Languages & Tools I Use
+
+### **Core Languages**
+- **Go** – concurrency, streaming, performance  
+- **Rust** – memory safety, SDL2 simulations, systems thinking  
+- **Java** – Spring Boot, REST APIs, security  
+- **JavaScript** – frameworks, frontend logic, game dev  
+- **SQL** – relational modeling, performance tuning  
+
+### **What I Love Building**
+- Backend systems  
+- Real-time apps  
+- AIs that evaluate or enhance content  
+- Custom frameworks  
+- Developer tools  
+- Simulations & small engines
+
+---
+
+## ✨ Selected Projects
+
+### 🟦 **01Blog – A Social Learning Platform**  
+*Spring Boot + Angular + PostgreSQL*  
+A platform for students to document their learning journey through posts & discussions.
+
+### 🔧 **Custom JavaScript Framework**  
+A homemade framework with:  
+- Virtual DOM  
+- Router  
+- State management  
+- Custom event system
+
+### 🔌 **Next.js WebSocket Chat System**  
+A real-time chat with:  
+- Group & direct messaging  
+- Message search  
+- Dynamic rendering & scrolling management
+
+### 🎮 **Pacman AI (Vanilla JS)**  
+Recreated classic ghost algorithms:  
+- Chase  
+- Scatter  
+- Frightened  
+- Personality-driven movement
+
+### 🎥 **YouTube → Whisper → MedLlama Tool**  
+Real-time transcription + medical form evaluation.
+
+### 🚦 **Rust Traffic Intersection Simulation**  
+SDL2-based simulation of traffic lights, queues, and vehicle logic.
+
+### 🧨 **Core War–style Assembler & VM in Rust**  
+VM, assembler, instruction set, execution loop.
+
+---
+
+## 🧭 What Drives Me
+
+I like problems that require thinking —  
+not just coding.
+
+I enjoy:
+- Understanding systems deeply  
+- Learning by building  
+- Simplifying complexity  
+- Teaching others what I learn  
+- Documenting journeys  
+
+Each project is a **new horizon**,  
+and each horizon is a **new beginning**.
+
+---
+
+## 📬 Let’s Connect
+
+If you want to talk about systems, game logic, AI reasoning, or building from scratch — feel free to reach out.
